@@ -46,10 +46,10 @@ body{
     text-decoration: none;
 }
 .masterhead{
-    ci
-    background-color: white !important;
+    background-color: #801E24;
     padding-top: calc(6rem + 74px);
     padding-bottom: 6rem;
+    color: white;
 }
 .container{
     align-items: center !important;
@@ -89,7 +89,4 @@ body{
 .github-link h2{
     display: inline;
     vertical-align: middle;
-}
-.portfolio{
-    background-color: #2c3e50;
 }
